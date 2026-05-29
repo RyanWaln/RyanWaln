@@ -7,5 +7,4 @@ I am hoping to pursue a career studying and managing marine ecosystems such as c
 This page is meant to host my many projects and repositories used for my research 🔍
 
 - 📫 How to reach me: ryan.waln@aol.com, +61-480-785-859
-- ✨ Pronouns: He/Him
 - ⚡ Hobbies: SCUBA diving 🤿, fishing 🎣, reading 📖, and cooking 🍛
