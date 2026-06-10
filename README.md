@@ -4,7 +4,9 @@ My name is Ryan and I am a Masters Student studying marine biology at James Cook
 
 I am hoping to pursue a career studying and managing marine ecosystems such as coral reefs, the deep sea, and more. 🪸
 
-This page is meant to host my many projects and repositories used for my research 🔍
+This page is meant to host my many projects and repositories used to answer marine science questions 🔍
+
+My coding work is typically focused on data wrangling, summarizing data sets, creating professional figures, and basic statistics 📈
 
 My current current toolkit includes coding experience with RStudio and MATLAB 💻
 
