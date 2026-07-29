@@ -6,7 +6,7 @@ I am hoping to pursue a career studying and managing marine ecosystems such as c
 
 This page is meant to host my many projects and repositories used to answer marine science questions 🔍
 
-My coding work is typically focused on data wrangling, summarizing data sets, creating professional figures, '
+My coding work is typically focused on data wrangling, summarizing data sets, creating professional figures,
 spatial analysis, and basic statistics 📈
 
 My current current toolkit includes coding experience with RStudio, MATLAB, ArcGIS, and Google Earth Engine 💻
