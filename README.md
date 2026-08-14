@@ -11,7 +11,6 @@ My coding work is typically focused on data wrangling, creating professional fig
 My current current toolkit includes coding experience with RStudio, MATLAB, Google Earth Engine, and use of ArcGIS 💻
 
 - 📫 How to reach me: ryan.waln@aol.com, +61-480-785-859
-- ✳️ Link to Google Site for R code:
-  https://sites.google.com/d/1bnB-dk_DgXhYytkTDnd6zWW8jXLpFoeF/p/1hgTr39PMiAMD2JYdtb6m6HGvYqDBWmfk/edit
+- ✳️ Link to Google Site for examples of my coding work: https://sites.google.com/view/walnmb5370
 - ⚡ Hobbies: SCUBA diving 🤿, fishing 🎣, reading 📖, and cooking 🍛
 
