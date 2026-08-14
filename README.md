@@ -8,7 +8,7 @@ This page is meant to host my many projects and repositories used to answer mari
 
 My coding work is typically focused on data wrangling, creating professional figures, spatial analysis, and basic statistics 📈
 
-My current current toolkit includes coding experience with RStudio, MATLAB, ArcGIS, and Google Earth Engine 💻
+My current current toolkit includes coding experience with RStudio, MATLAB, Google Earth Engine, and use of ArcGIS 💻
 
 - 📫 How to reach me: ryan.waln@aol.com, +61-480-785-859
 - ✳️ Link to Google Site for R code:
